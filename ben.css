@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(37, 23, 23, 0.374);
+}
+.Header {
+    /* text-align: center; */
+    padding: 20px;
+    margin: 5px;
+    border-radius: 25px;
+    align-items: flex-end;
+    background-color: gray;
+}
+
+.Main {
+    /* text-align: center; */
+    padding: 30px;
+    margin: 5px;
+    border-radius: 25px;
+    background-color: rgb(87, 87, 131);
+}
+
+.Footer {
+    align-content: center;
+    /* text-align: center; */
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25px;
+    align-items: flex-end;
+    background-color: rgb(131, 181, 165);
+}
+
+.Nav {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: bolder;
+    background-color: rgb(131, 181, 165);
+    height: 20px;
+    border-radius: 25px;
+    text-align: center;
+    display: flex;
+    /* text-align: center; */
+}
+
+.ul li {
+    list-style: none;
+}
